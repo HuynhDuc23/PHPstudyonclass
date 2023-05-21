@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/php_online"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "F8-Shop",
+		"git.ignoreLimitWarning": true
+	},
+	"extensions": {
+		"recommendations": [
+			"bracketpaircolordlw.bracket-pair-color-dlw"
+		]
+	}
+}
